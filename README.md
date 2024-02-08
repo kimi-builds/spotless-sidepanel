@@ -1,4 +1,4 @@
-# spotless
+# Spotside
 Spotside is a Chrome extension that allows you to control your Spotify player, mute annoying ads, search and play music from the recently implemented SidePanel API. At the moment it's relatively barebones, although functional. Requires a late 2023 Chromium-derived browser. Also, this version has been built already, so you can just clone the repo and unpack it to use it under developer mode.
 
 ## Usage
